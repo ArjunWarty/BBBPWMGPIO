@@ -1,4 +1,4 @@
-#include "PWM.h"
+#include "pwm.h"
 #include "util.h"
 #include <cstdlib>
 
